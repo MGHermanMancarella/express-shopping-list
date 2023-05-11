@@ -1,6 +1,5 @@
 const items = [
-  { name: "popsicle", price: 1.45 },
-  { name: "cheerios", price: 3.40 }
+  { "name": "pickles", "price": 45.99 }
 ];
 
 module.exports = { items };
